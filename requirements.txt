@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch>=2.6.0
+pandas
+numpy
+scipy
+scikit-learn
+python-multipart
+pydantic
