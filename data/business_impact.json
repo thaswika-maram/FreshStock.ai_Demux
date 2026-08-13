@@ -1,0 +1,24 @@
+{
+  "weekly_total_savings": 2748.59,
+  "annual_projected_savings": 142926.52,
+  "weekly_spoilage_saved": 1264.51,
+  "weekly_lost_sales_protected": 1449.41,
+  "weekly_holding_cost_saved": 34.67,
+  "annual_ml_system_cost": 1800.0,
+  "net_annual_roi_dollars": 141126.52,
+  "roi_multiple": 79.4,
+  "roi_percentage": 7840.4,
+  "category_breakdown": {
+    "Food": {
+      "spoilage_saved": 1072.5,
+      "lost_sales_saved": 725.05,
+      "holding_saved": 18.42
+    },
+    "Beverage": {
+      "spoilage_saved": 192.01,
+      "lost_sales_saved": 724.36,
+      "holding_saved": 16.25
+    }
+  },
+  "summary_statement": "With the AI Demand Forecasting model vs. naive baseline, this e-grocery retailer saves approximately $2,749 per week ($142,927 / year), achieving a 7,840% ROI."
+}

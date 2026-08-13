@@ -1,0 +1,107 @@
+[
+  {
+    "user_id": "usr_alex_01",
+    "email": "alex.morgan@freshstock.ai",
+    "name": "Alex Morgan",
+    "store_name": "FreshMart Supermarket #04",
+    "role": "Store Inventory & Procurement Manager",
+    "phone": "+1 (555) 999-8888",
+    "location": "Austin, Texas, USA",
+    "timezone": "America/Chicago (CST)",
+    "currency": "INR (\u00e2\u201a\u00b9)",
+    "avatar_url": "",
+    "created_at": "2025-11-15",
+    "theme_preference": "dark",
+    "service_level_default": 0.95,
+    "holding_cost_annual_pct": 22.0,
+    "stats": {
+      "reorders_placed": 0,
+      "csv_uploads": 0,
+      "skus_managed": 0
+    }
+  },
+  {
+    "user_id": "usr_sarah_02",
+    "email": "sarah.j@greengrocer.com",
+    "name": "Sarah Jenkins",
+    "store_name": "Organic Green Grocery Co.",
+    "role": "Head of Fresh Produce Buying",
+    "phone": "+1 (555) 890-1234",
+    "location": "Portland, Oregon, USA",
+    "timezone": "America/Los_Angeles (PST)",
+    "currency": "INR (\u00e2\u201a\u00b9)",
+    "avatar_url": "",
+    "created_at": "2026-01-10",
+    "theme_preference": "dark",
+    "service_level_default": 0.98,
+    "holding_cost_annual_pct": 20.0,
+    "stats": {
+      "reorders_placed": 0,
+      "csv_uploads": 0,
+      "skus_managed": 0
+    }
+  },
+  {
+    "user_id": "usr_1d180d83",
+    "email": "nanduthaswi@gmail.com",
+    "name": "Thaswika Maram",
+    "store_name": "Green Valley",
+    "role": "Store Manager",
+    "phone": "",
+    "location": "",
+    "timezone": "America/New_York (EST)",
+    "currency": "INR (\u00e2\u201a\u00b9)",
+    "avatar_url": "",
+    "created_at": "2026-08-11",
+    "theme_preference": "dark",
+    "service_level_default": 0.95,
+    "holding_cost_annual_pct": 22.0,
+    "stats": {
+      "reorders_placed": 0,
+      "csv_uploads": 2,
+      "skus_managed": 101
+    }
+  },
+  {
+    "user_id": "usr_81e09fd0",
+    "email": "alice@test.com",
+    "name": "Alice Test",
+    "store_name": "Alice Market",
+    "role": "Owner",
+    "phone": "",
+    "location": "",
+    "timezone": "America/New_York (EST)",
+    "currency": "INR (\u00e2\u201a\u00b9)",
+    "avatar_url": "",
+    "created_at": "2026-08-12",
+    "theme_preference": "dark",
+    "service_level_default": 0.95,
+    "holding_cost_annual_pct": 22.0,
+    "stats": {
+      "reorders_placed": 0,
+      "csv_uploads": 0,
+      "skus_managed": 0
+    }
+  },
+  {
+    "user_id": "usr_37953a7b",
+    "email": "kondaboyanadeepthi06@gmail.com",
+    "name": "Deepthi",
+    "store_name": "FreshUp",
+    "role": "Store Manager",
+    "phone": "",
+    "location": "",
+    "timezone": "America/New_York (EST)",
+    "currency": "INR (\u00e2\u201a\u00b9)",
+    "avatar_url": "",
+    "created_at": "2026-08-12",
+    "theme_preference": "dark",
+    "service_level_default": 0.95,
+    "holding_cost_annual_pct": 22.0,
+    "stats": {
+      "reorders_placed": 0,
+      "csv_uploads": 0,
+      "skus_managed": 100
+    }
+  }
+]

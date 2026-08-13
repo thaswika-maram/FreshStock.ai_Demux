@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "FastAPI Backend Server",
+      "type": "python",
+      "request": "launch",
+      "module": "uvicorn",
+      "args": ["backend.main:app", "--host", "127.0.0.1", "--port", "8000", "--reload"],
+      "jinja": true,
+      "justMyCode": true
+    },
+    {
+      "name": "Train Forecasting Models & Evaluate",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/backend/run_training.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Launch Chrome against Frontend",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/frontend"
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+[
+  {
+    "id": "9907d4b9-6c77-43a7-9bd1-8f8565ae4811",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:07:29",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +276.3 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "743d2b5b-e2fe-4bae-8c6a-03e4594faea0",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:07:18",
+    "action_type": "PRODUCT_CREATE",
+    "title": "New SKU Added: maggi",
+    "description": "Added maggi (Food) with base demand of 120.0 units/day, shelf life of 5d.",
+    "badge_color": "emerald",
+    "metadata": {
+      "product_id": "PROD_101",
+      "category": "Food",
+      "price": 3.49
+    }
+  },
+  {
+    "id": "16867536-43c4-456c-8d7b-790582645b27",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:06:15",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 20.0% discount promo with resulting delta of +25.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "7ce13cf6-8ce7-4fc4-bf52-7bc13ad268dc",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:06:15",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 20.0% discount promo with resulting delta of +25.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "4aa86fe3-68e6-477a-872b-f001bee5caae",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:18",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +39.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "51c0952f-9271-4d07-91ba-96d77c9880cd",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:14",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -1.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "caf7fa53-9a82-43e0-aa81-361fe8ddfacf",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:13",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +19.3 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "c8480f81-7bd6-4cc3-9287-d597950e0065",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:12",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +39.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "04ffdbbc-e0fe-4f04-b026-608fb3a269ab",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:11",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +60.2 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "d57d1bb5-8253-436e-998d-7675526c4805",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:11",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +80.6 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "c0beb167-8fcb-443b-9c4f-4cec4e0a27aa",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:11",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +101.2 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "b7fca78f-1442-44cf-bb06-ccc537cd6940",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:11",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +121.5 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "69edad19-a409-4c7a-86b6-4e8a5adfe35f",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +142.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "8f7ce2db-4284-4e29-9fef-b61c5898343e",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +121.5 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "a808fb4a-80d5-4fbc-8b62-d58a0f45abfc",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +101.2 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "81d066df-c2ff-4214-9cde-8ee25af1ca12",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +80.6 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "42e75f05-5a8e-4d7d-9051-7a8493a8519a",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +60.2 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "0b85e54d-92b8-4c0e-a266-9368117adb04",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +39.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "6df8f97c-ca6b-4811-9554-96b360f2bc6c",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +19.3 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "ba71bc5a-4bcb-4cfa-b035-4785fd767d7a",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -21.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "cb015745-f838-4add-af19-3b5f3e853c46",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -42.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "3922dfb1-7195-43bc-8235-25b9fbb83a4b",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -62.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "9962b94c-1e65-4a59-8ed8-1f29603edfd7",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:10",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -83.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "55dd3c61-99ad-48ce-9625-b1728169be24",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:09",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -103.6 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "6b96adaf-75cc-4bae-afd2-5241327e5cf1",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:09",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -83.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "ba94d964-e379-44cd-bbb6-bcc128311264",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:09",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -62.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "107bd624-c8f4-4c02-aca7-51c696332e68",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:09",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -42.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "f343c296-20c6-458e-887e-34fcc9f7cf32",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:08",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -21.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "f726511a-b210-4e5d-95ca-50318297a593",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:08",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of -1.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "bf0a87d1-fbf2-44d3-8c0d-48ab0e8ad1d3",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:05",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +19.3 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "1c91954d-4a5e-4631-a887-5c058080eb2f",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:05",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 10.0% discount promo with resulting delta of +12.8 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "130503ef-f223-4728-8030-3a2dcc2cd282",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:05",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 5.0% discount promo with resulting delta of +6.4 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "1ab515d8-2c74-4e2b-92f2-03e87a06f64f",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 5.0% discount promo with resulting delta of +6.4 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "8391d5e8-bdb7-4abb-84e1-c27b6a7c9070",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 10.0% discount promo with resulting delta of +12.8 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "0a13c1d9-976f-49f2-a99a-957b2f33ffe3",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 15.0% discount promo with resulting delta of +19.3 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "eb897b7a-f93c-40f7-b307-144502f442ab",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 20.0% discount promo with resulting delta of +25.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "81c69642-6fb5-48e2-801a-93709b29d6c5",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 25.0% discount promo with resulting delta of +32.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "751f73c2-571f-4981-9a35-f6ca4064c75f",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 30.0% discount promo with resulting delta of +38.5 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "e9f4cdd3-09d8-48c2-ab07-169fb50b7a5b",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:04",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 35.0% discount promo with resulting delta of +44.9 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "5d17d1fa-f992-41d5-8231-3c81ab41932b",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:03",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 40.0% discount promo with resulting delta of +51.4 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "94c15e06-455b-4c33-8636-8a5fbe8bfc68",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:03",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 45.0% discount promo with resulting delta of +57.8 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "a2859036-6655-442f-884e-e142f580d7e0",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:02",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 50.0% discount promo with resulting delta of +64.2 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "415f3201-b1c3-4661-adc8-5ff6fd7c2c63",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:02",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 45.0% discount promo with resulting delta of +57.8 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "8d5f592b-96be-447e-a270-679f6286e555",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:02",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 40.0% discount promo with resulting delta of +51.4 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "b583cdf3-07c7-479e-bcc2-6cc5bccd3230",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:02",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 35.0% discount promo with resulting delta of +44.9 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "06a6f5f9-3266-4b2b-8011-554965aa940a",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:02",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 30.0% discount promo with resulting delta of +38.5 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "d2185bff-b0d5-4812-9add-f1ba70d0533b",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:05:01",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 25.0% discount promo with resulting delta of +32.1 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "dc8d1e15-a661-4923-802c-6c8a3c699934",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:04:35",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 20.0% discount promo with resulting delta of +25.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "b7e058e3-6fdf-490d-b0b3-c4727ed82b19",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 22:04:35",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Artisan Sourdough Loaf",
+    "description": "Simulated 20.0% discount promo with resulting delta of +25.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "8b33e39b-3b75-427c-aa33-38f1547c37e9",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:47:50",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Hass Avocados (Pack of 4)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +41.8 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "a25ab3f9-63da-49ac-a408-6d0809ac168d",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:45:50",
+    "action_type": "PRODUCT_UPDATE",
+    "title": "Updated SKU: Roma Tomatoes (1kg)",
+    "description": "Updated Roma Tomatoes (1kg). Stock: 50 -> 50000 units",
+    "badge_color": "violet",
+    "metadata": {
+      "product_id": "PROD_001",
+      "changes": {
+        "name": "Roma Tomatoes (1kg)",
+        "category": "Food",
+        "subcategory": "Food",
+        "base_demand": 1001.0,
+        "shelf_life_days": 5,
+        "unit_price": 4.91,
+        "unit_cost": 1.8,
+        "lead_time_days": 1,
+        "moq": 35,
+        "current_stock": 50000,
+        "service_level": 0.95
+      }
+    }
+  },
+  {
+    "id": "920d2033-7862-47e1-8fbd-84e6e5fde550",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:45:12",
+    "action_type": "PRODUCT_UPDATE",
+    "title": "Updated SKU: Roma Tomatoes (1kg)",
+    "description": "Updated Roma Tomatoes (1kg). Stock: 80 -> 50 units",
+    "badge_color": "violet",
+    "metadata": {
+      "product_id": "PROD_001",
+      "changes": {
+        "name": "Roma Tomatoes (1kg)",
+        "category": "Food",
+        "subcategory": "Food",
+        "base_demand": 1001.0,
+        "shelf_life_days": 5,
+        "unit_price": 4.91,
+        "unit_cost": 1.8,
+        "lead_time_days": 1,
+        "moq": 35,
+        "current_stock": 50,
+        "service_level": 0.95
+      }
+    }
+  },
+  {
+    "id": "48efbbc3-bf1e-4678-9804-77849926bba5",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:29:33",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +68.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "1886fe20-df41-408e-88ce-a15117b6ceab",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:29:33",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +68.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "87632e56-f47d-4b92-a386-5aa3ef559a08",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:29:01",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "9f6a96fe-b7bd-422b-9c50-3e74831202de",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:29:01",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "9602267f-b231-4c91-97c1-ada06fcd14d1",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:28:44",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "7f2376e4-9ec2-49b7-9190-6ec8d18c0f56",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:28:44",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "e9e16ee5-5ff6-4525-b1f1-119b06c48bee",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:25:50",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "040f1824-d260-4a3d-b0e7-14dc4d9a1fd0",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 21:25:49",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "90e6e009-7ef4-4858-a5dc-e8330a18d2b6",
+    "user_id": "usr_1d180d83",
+    "timestamp": "2026-08-13 21:08:53",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +68.7 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "872e7e7a-8874-4883-bc53-4a05d66a050b",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 19:24:44",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  },
+  {
+    "id": "c55aef4b-7725-4dc9-9884-6eb72980ee2d",
+    "user_id": "usr_37953a7b",
+    "timestamp": "2026-08-13 19:24:44",
+    "action_type": "SCENARIO_SIMULATION",
+    "title": "What-If Simulation: Roma Tomatoes (1kg)",
+    "description": "Simulated 20.0% discount promo with resulting delta of +40.0 units.",
+    "badge_color": "blue",
+    "metadata": {}
+  }
+]

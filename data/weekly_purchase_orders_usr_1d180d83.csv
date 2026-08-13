@@ -1,0 +1,501 @@
+product_id,product_name,category,order_day,forecast_units,safety_stock_buffer,beginning_stock,recommended_order_quantity,unit_cost,estimated_order_cost,shelf_life_days,spoilage_risk
+PROD_002,Organic Whole Milk (1L),Food,Monday,396.6,78,71,450,1.2,540.0,7,False
+PROD_002,Organic Whole Milk (1L),Food,Tuesday,309.2,61,124,250,1.2,300.0,7,False
+PROD_002,Organic Whole Milk (1L),Food,Wednesday,302.5,59,65,300,1.2,360.0,7,False
+PROD_002,Organic Whole Milk (1L),Food,Thursday,352.9,69,62,400,1.2,480.0,7,False
+PROD_002,Organic Whole Milk (1L),Food,Friday,420.1,82,109,400,1.2,480.0,7,False
+PROD_003,Artisan Sourdough Loaf,Food,Monday,109.7,21,19,120,2.0,240.0,3,False
+PROD_003,Artisan Sourdough Loaf,Food,Tuesday,85.6,16,29,75,2.0,150.0,3,False
+PROD_003,Artisan Sourdough Loaf,Food,Wednesday,83.7,16,18,90,2.0,180.0,3,False
+PROD_003,Artisan Sourdough Loaf,Food,Thursday,97.7,19,25,105,2.0,210.0,3,False
+PROD_003,Artisan Sourdough Loaf,Food,Friday,116.2,22,32,120,2.0,240.0,3,False
+PROD_004,Hass Avocados (Pack of 4),Food,Monday,178.8,35,33,200,2.7,540.0,4,False
+PROD_004,Hass Avocados (Pack of 4),Food,Tuesday,139.4,27,54,125,2.7,337.5,4,False
+PROD_004,Hass Avocados (Pack of 4),Food,Wednesday,136.3,26,39,125,2.7,337.5,4,False
+PROD_004,Hass Avocados (Pack of 4),Food,Thursday,159.1,31,28,175,2.7,472.5,4,False
+PROD_004,Hass Avocados (Pack of 4),Food,Friday,189.4,37,44,200,2.7,540.0,4,False
+PROD_005,Organic Bananas (1kg),Food,Monday,355.5,70,45,405,0.9,364.5,4,False
+PROD_005,Organic Bananas (1kg),Food,Tuesday,277.2,54,94,270,0.9,243.0,4,False
+PROD_005,Organic Bananas (1kg),Food,Wednesday,271.2,53,87,270,0.9,243.0,4,False
+PROD_005,Organic Bananas (1kg),Food,Thursday,316.4,62,86,315,0.9,283.5,4,False
+PROD_005,Organic Bananas (1kg),Food,Friday,376.6,74,84,405,0.9,364.5,4,False
+PROD_006,Free-Range Chicken Breast (500g),Food,Monday,131.2,25,32,135,4.2,567.0,4,False
+PROD_006,Free-Range Chicken Breast (500g),Food,Tuesday,102.3,20,35,90,4.2,378.0,4,False
+PROD_006,Free-Range Chicken Breast (500g),Food,Wednesday,100.1,19,23,105,4.2,441.0,4,False
+PROD_006,Free-Range Chicken Breast (500g),Food,Thursday,116.8,23,28,120,4.2,504.0,4,False
+PROD_006,Free-Range Chicken Breast (500g),Food,Friday,139.0,27,31,135,4.2,567.0,4,False
+PROD_007,Fresh Strawberries (400g),Food,Monday,181.4,35,48,175,2.1,367.5,3,False
+PROD_007,Fresh Strawberries (400g),Food,Tuesday,141.4,27,41,150,2.1,315.0,3,False
+PROD_007,Fresh Strawberries (400g),Food,Wednesday,138.3,27,50,125,2.1,262.5,3,False
+PROD_007,Fresh Strawberries (400g),Food,Thursday,161.4,31,36,175,2.1,367.5,3,False
+PROD_007,Fresh Strawberries (400g),Food,Friday,192.1,37,50,200,2.1,420.0,3,False
+PROD_008,Authentic Greek Yogurt (500g),Food,Monday,241.7,47,57,240,1.6,384.0,12,False
+PROD_008,Authentic Greek Yogurt (500g),Food,Tuesday,188.4,37,55,180,1.6,288.0,12,False
+PROD_008,Authentic Greek Yogurt (500g),Food,Wednesday,184.3,36,46,180,1.6,288.0,12,False
+PROD_008,Authentic Greek Yogurt (500g),Food,Thursday,215.0,42,42,240,1.6,384.0,12,False
+PROD_008,Authentic Greek Yogurt (500g),Food,Friday,256.0,50,67,240,1.6,384.0,12,False
+PROD_009,Baby Spinach (200g),Food,Monday,213.2,42,34,225,1.1,247.5,4,False
+PROD_009,Baby Spinach (200g),Food,Tuesday,166.2,32,45,175,1.1,192.5,4,False
+PROD_009,Baby Spinach (200g),Food,Wednesday,162.6,32,54,150,1.1,165.0,4,False
+PROD_009,Baby Spinach (200g),Food,Thursday,189.7,37,42,200,1.1,220.0,4,False
+PROD_009,Baby Spinach (200g),Food,Friday,225.9,44,52,225,1.1,247.5,4,False
+PROD_010,Pasture-Raised Eggs (Dozen),Food,Monday,264.2,52,55,280,2.6,728.0,21,False
+PROD_010,Pasture-Raised Eggs (Dozen),Food,Tuesday,206.0,40,70,210,2.6,546.0,21,False
+PROD_010,Pasture-Raised Eggs (Dozen),Food,Wednesday,201.5,39,74,175,2.6,455.0,21,False
+PROD_010,Pasture-Raised Eggs (Dozen),Food,Thursday,235.1,46,48,245,2.6,637.0,21,False
+PROD_010,Pasture-Raised Eggs (Dozen),Food,Friday,279.9,55,58,280,2.6,728.0,21,False
+PROD_011,Atlantic Salmon Fillet (400g),Food,Monday,87.0,17,13,100,6.5,650.0,3,False
+PROD_011,Atlantic Salmon Fillet (400g),Food,Tuesday,67.8,13,26,60,6.5,390.0,3,False
+PROD_011,Atlantic Salmon Fillet (400g),Food,Wednesday,66.3,13,18,70,6.5,455.0,3,False
+PROD_011,Atlantic Salmon Fillet (400g),Food,Thursday,77.4,15,21,80,6.5,520.0,3,False
+PROD_011,Atlantic Salmon Fillet (400g),Food,Friday,92.1,18,24,90,6.5,585.0,3,False
+PROD_012,Aged Cheddar Cheese (250g),Food,Monday,95.8,18,25,90,2.3,207.0,30,False
+PROD_012,Aged Cheddar Cheese (250g),Food,Tuesday,74.7,14,19,70,2.3,161.0,30,False
+PROD_012,Aged Cheddar Cheese (250g),Food,Wednesday,73.1,14,14,80,2.3,184.0,30,False
+PROD_012,Aged Cheddar Cheese (250g),Food,Thursday,85.3,16,21,80,2.3,184.0,30,False
+PROD_012,Aged Cheddar Cheese (250g),Food,Friday,101.5,20,16,110,2.3,253.0,30,False
+PROD_013,Red Bell Peppers (3-pack),Food,Monday,145.7,28,38,140,1.5,210.0,6,False
+PROD_013,Red Bell Peppers (3-pack),Food,Tuesday,113.6,22,32,120,1.5,180.0,6,False
+PROD_013,Red Bell Peppers (3-pack),Food,Wednesday,111.2,21,38,100,1.5,150.0,6,False
+PROD_013,Red Bell Peppers (3-pack),Food,Thursday,129.7,25,27,140,1.5,210.0,6,False
+PROD_013,Red Bell Peppers (3-pack),Food,Friday,154.4,30,37,160,1.5,240.0,6,False
+PROD_014,Fresh Broccoli Crowns (500g),Food,Monday,221.7,43,36,240,1.05,252.0,5,False
+PROD_014,Fresh Broccoli Crowns (500g),Food,Tuesday,172.9,34,54,180,1.05,189.0,5,False
+PROD_014,Fresh Broccoli Crowns (500g),Food,Wednesday,169.1,33,61,150,1.05,157.5,5,False
+PROD_014,Fresh Broccoli Crowns (500g),Food,Thursday,197.3,38,42,210,1.05,220.5,5,False
+PROD_014,Fresh Broccoli Crowns (500g),Food,Friday,234.9,46,55,240,1.05,252.0,5,False
+PROD_015,Royal Gala Apples (1.5kg),Food,Monday,247.8,48,51,270,1.95,526.5,14,False
+PROD_015,Royal Gala Apples (1.5kg),Food,Tuesday,193.2,38,73,180,1.95,351.0,14,False
+PROD_015,Royal Gala Apples (1.5kg),Food,Wednesday,189.0,37,60,180,1.95,351.0,14,False
+PROD_015,Royal Gala Apples (1.5kg),Food,Thursday,220.5,43,51,240,1.95,468.0,14,False
+PROD_015,Royal Gala Apples (1.5kg),Food,Friday,262.5,51,70,270,1.95,526.5,14,False
+PROD_016,Salted Butter (250g),Food,Monday,170.3,33,43,180,1.5,270.0,45,False
+PROD_016,Salted Butter (250g),Food,Tuesday,132.8,26,52,120,1.5,180.0,45,False
+PROD_016,Salted Butter (250g),Food,Wednesday,129.9,25,39,120,1.5,180.0,45,False
+PROD_016,Salted Butter (250g),Food,Thursday,151.5,29,29,160,1.5,240.0,45,False
+PROD_016,Salted Butter (250g),Food,Friday,180.4,35,38,180,1.5,270.0,45,False
+PROD_017,Whole Grain Sandwich Bread,Food,Monday,196.1,38,26,225,1.15,258.75,5,False
+PROD_017,Whole Grain Sandwich Bread,Food,Tuesday,152.9,30,54,150,1.15,172.5,5,False
+PROD_017,Whole Grain Sandwich Bread,Food,Wednesday,149.6,29,52,150,1.15,172.5,5,False
+PROD_017,Whole Grain Sandwich Bread,Food,Thursday,174.5,34,52,175,1.15,201.25,5,False
+PROD_017,Whole Grain Sandwich Bread,Food,Friday,207.8,40,52,200,1.15,230.0,5,False
+PROD_018,Grass-Fed Ground Beef (500g),Food,Monday,118.8,23,23,120,3.8,456.0,4,False
+PROD_018,Grass-Fed Ground Beef (500g),Food,Tuesday,92.6,18,24,90,3.8,342.0,4,False
+PROD_018,Grass-Fed Ground Beef (500g),Food,Wednesday,90.6,17,21,90,3.8,342.0,4,False
+PROD_018,Grass-Fed Ground Beef (500g),Food,Thursday,105.7,20,21,105,3.8,399.0,4,False
+PROD_018,Grass-Fed Ground Beef (500g),Food,Friday,125.9,24,20,135,3.8,513.0,4,False
+PROD_019,Fresh Blueberries (250g),Food,Monday,149.0,29,31,160,2.4,384.0,4,False
+PROD_019,Fresh Blueberries (250g),Food,Tuesday,116.2,22,42,100,2.4,240.0,4,False
+PROD_019,Fresh Blueberries (250g),Food,Wednesday,113.7,22,25,120,2.4,288.0,4,False
+PROD_019,Fresh Blueberries (250g),Food,Thursday,132.6,26,32,140,2.4,336.0,4,False
+PROD_019,Fresh Blueberries (250g),Food,Friday,157.9,31,39,160,2.4,384.0,4,False
+PROD_020,Seedless Cucumbers (2-pack),Food,Monday,219.5,43,50,240,0.95,228.0,6,False
+PROD_020,Seedless Cucumbers (2-pack),Food,Tuesday,171.1,33,70,150,0.95,142.5,6,False
+PROD_020,Seedless Cucumbers (2-pack),Food,Wednesday,167.4,33,49,180,0.95,171.0,6,False
+PROD_020,Seedless Cucumbers (2-pack),Food,Thursday,195.3,38,62,180,0.95,171.0,6,False
+PROD_020,Seedless Cucumbers (2-pack),Food,Friday,232.5,45,46,240,0.95,228.0,6,False
+PROD_021,Fresh Mushrooms (300g),Food,Monday,148.4,29,22,160,1.35,216.0,4,False
+PROD_021,Fresh Mushrooms (300g),Food,Tuesday,115.7,22,33,120,1.35,162.0,4,False
+PROD_021,Fresh Mushrooms (300g),Food,Wednesday,113.2,22,37,100,1.35,135.0,4,False
+PROD_021,Fresh Mushrooms (300g),Food,Thursday,132.1,26,24,140,1.35,189.0,4,False
+PROD_021,Fresh Mushrooms (300g),Food,Friday,157.2,31,32,160,1.35,216.0,4,False
+PROD_022,Organic Carrots (1kg),Food,Monday,162.8,32,37,160,0.75,120.0,18,False
+PROD_022,Organic Carrots (1kg),Food,Tuesday,127.0,25,34,120,0.75,90.0,18,False
+PROD_022,Organic Carrots (1kg),Food,Wednesday,124.2,24,27,140,0.75,105.0,18,False
+PROD_022,Organic Carrots (1kg),Food,Thursday,144.9,28,42,140,0.75,105.0,18,False
+PROD_022,Organic Carrots (1kg),Food,Friday,172.5,34,38,180,0.75,135.0,18,False
+PROD_023,Fresh Mozzarella Ball (200g),Food,Monday,98.3,19,22,105,1.9,199.5,10,False
+PROD_023,Fresh Mozzarella Ball (200g),Food,Tuesday,76.6,15,28,75,1.9,142.5,10,False
+PROD_023,Fresh Mozzarella Ball (200g),Food,Wednesday,75.0,14,27,75,1.9,142.5,10,False
+PROD_023,Fresh Mozzarella Ball (200g),Food,Thursday,87.5,17,27,90,1.9,171.0,10,False
+PROD_023,Fresh Mozzarella Ball (200g),Food,Friday,104.1,20,29,105,1.9,199.5,10,False
+PROD_024,Yellow Onions (2kg bag),Food,Monday,194.8,38,51,200,1.0,200.0,30,False
+PROD_024,Yellow Onions (2kg bag),Food,Tuesday,151.9,29,56,125,1.0,125.0,30,False
+PROD_024,Yellow Onions (2kg bag),Food,Wednesday,148.6,29,29,150,1.0,150.0,30,False
+PROD_024,Yellow Onions (2kg bag),Food,Thursday,173.4,34,30,200,1.0,200.0,30,False
+PROD_024,Yellow Onions (2kg bag),Food,Friday,206.4,40,57,200,1.0,200.0,30,False
+PROD_025,Russet Potatoes (2.5kg),Food,Monday,236.4,46,72,240,1.4,336.0,25,False
+PROD_025,Russet Potatoes (2.5kg),Food,Tuesday,184.3,36,75,150,1.4,210.0,25,False
+PROD_025,Russet Potatoes (2.5kg),Food,Wednesday,180.3,35,41,180,1.4,252.0,25,False
+PROD_025,Russet Potatoes (2.5kg),Food,Thursday,210.3,41,40,240,1.4,336.0,25,False
+PROD_025,Russet Potatoes (2.5kg),Food,Friday,250.4,49,70,240,1.4,336.0,25,False
+PROD_026,French Baguette,Food,Monday,182.4,36,49,175,0.85,148.75,2,False
+PROD_026,French Baguette,Food,Tuesday,142.2,28,41,150,0.85,127.5,2,False
+PROD_026,French Baguette,Food,Wednesday,139.1,27,49,125,0.85,106.25,2,False
+PROD_026,French Baguette,Food,Thursday,162.3,32,35,175,0.85,148.75,2,False
+PROD_026,French Baguette,Food,Friday,193.2,38,48,200,0.85,170.0,2,False
+PROD_027,Lean Pork Chops (400g),Food,Monday,97.8,19,23,100,3.3,330.0,4,False
+PROD_027,Lean Pork Chops (400g),Food,Tuesday,76.3,15,25,70,3.3,231.0,4,False
+PROD_027,Lean Pork Chops (400g),Food,Wednesday,74.6,14,18,70,3.3,231.0,4,False
+PROD_027,Lean Pork Chops (400g),Food,Thursday,87.0,17,14,90,3.3,297.0,4,False
+PROD_027,Lean Pork Chops (400g),Food,Friday,103.6,20,17,110,3.3,363.0,4,False
+PROD_028,Fresh Raspberries (175g),Food,Monday,97.7,19,14,110,2.3,253.0,3,False
+PROD_028,Fresh Raspberries (175g),Food,Tuesday,76.2,14,26,70,2.3,161.0,3,False
+PROD_028,Fresh Raspberries (175g),Food,Wednesday,74.5,14,20,70,2.3,161.0,3,False
+PROD_028,Fresh Raspberries (175g),Food,Thursday,86.9,17,15,90,2.3,207.0,3,False
+PROD_028,Fresh Raspberries (175g),Food,Friday,103.5,20,18,110,2.3,253.0,3,False
+PROD_029,Cottage Cheese (400g),Food,Monday,84.0,16,20,80,1.5,120.0,14,False
+PROD_029,Cottage Cheese (400g),Food,Tuesday,65.5,12,16,70,1.5,105.0,14,False
+PROD_029,Cottage Cheese (400g),Food,Wednesday,64.1,12,20,60,1.5,90.0,14,False
+PROD_029,Cottage Cheese (400g),Food,Thursday,74.8,14,16,80,1.5,120.0,14,False
+PROD_029,Cottage Cheese (400g),Food,Friday,89.0,17,21,90,1.5,135.0,14,False
+PROD_030,Fresh Zucchini (1kg),Food,Monday,103.2,20,14,120,1.15,138.0,6,False
+PROD_030,Fresh Zucchini (1kg),Food,Tuesday,80.5,15,30,75,1.15,86.25,6,False
+PROD_030,Fresh Zucchini (1kg),Food,Wednesday,78.8,15,25,75,1.15,86.25,6,False
+PROD_030,Fresh Zucchini (1kg),Food,Thursday,91.9,18,21,90,1.15,103.5,6,False
+PROD_030,Fresh Zucchini (1kg),Food,Friday,109.4,21,19,120,1.15,138.0,6,False
+PROD_031,Organic Tofu Firm (400g),Food,Monday,84.5,16,14,90,1.25,112.5,20,False
+PROD_031,Organic Tofu Firm (400g),Food,Tuesday,65.9,12,19,60,1.25,75.0,20,False
+PROD_031,Organic Tofu Firm (400g),Food,Wednesday,64.4,12,13,70,1.25,87.5,20,False
+PROD_031,Organic Tofu Firm (400g),Food,Thursday,75.2,14,19,80,1.25,100.0,20,False
+PROD_031,Organic Tofu Firm (400g),Food,Friday,89.5,17,23,90,1.25,112.5,20,False
+PROD_032,Gourmet Croissants (4-pack),Food,Monday,139.9,27,39,140,1.8,252.0,3,False
+PROD_032,Gourmet Croissants (4-pack),Food,Tuesday,109.1,21,39,100,1.8,180.0,3,False
+PROD_032,Gourmet Croissants (4-pack),Food,Wednesday,106.7,21,30,100,1.8,180.0,3,False
+PROD_032,Gourmet Croissants (4-pack),Food,Thursday,124.5,24,23,140,1.8,252.0,3,False
+PROD_032,Gourmet Croissants (4-pack),Food,Friday,148.2,29,38,140,1.8,252.0,3,False
+PROD_033,Turkey Breast Slices (200g),Food,Monday,145.1,28,36,140,2.1,294.0,10,False
+PROD_033,Turkey Breast Slices (200g),Food,Tuesday,113.2,22,30,120,2.1,252.0,10,False
+PROD_033,Turkey Breast Slices (200g),Food,Wednesday,110.7,21,37,100,2.1,210.0,10,False
+PROD_033,Turkey Breast Slices (200g),Food,Thursday,129.2,25,26,140,2.1,294.0,10,False
+PROD_033,Turkey Breast Slices (200g),Food,Friday,153.8,30,37,160,2.1,336.0,10,False
+PROD_034,Fresh Cilantro Bunch,Food,Monday,169.3,33,26,180,0.45,81.0,4,False
+PROD_034,Fresh Cilantro Bunch,Food,Tuesday,132.0,25,36,140,0.45,63.0,4,False
+PROD_034,Fresh Cilantro Bunch,Food,Wednesday,129.2,25,44,120,0.45,54.0,4,False
+PROD_034,Fresh Cilantro Bunch,Food,Thursday,150.7,29,35,160,0.45,72.0,4,False
+PROD_034,Fresh Cilantro Bunch,Food,Friday,179.4,35,44,180,0.45,81.0,4,False
+PROD_035,Garlic (3-bulb pack),Food,Monday,172.2,34,47,160,0.6,96.0,40,False
+PROD_035,Garlic (3-bulb pack),Food,Tuesday,134.2,26,34,140,0.6,84.0,40,False
+PROD_035,Garlic (3-bulb pack),Food,Wednesday,131.3,25,40,120,0.6,72.0,40,False
+PROD_035,Garlic (3-bulb pack),Food,Thursday,153.2,30,29,160,0.6,96.0,40,False
+PROD_035,Garlic (3-bulb pack),Food,Friday,182.4,36,36,200,0.6,120.0,40,False
+PROD_036,Fresh Cauliflower Head,Food,Monday,88.3,17,9,100,1.4,140.0,6,False
+PROD_036,Fresh Cauliflower Head,Food,Tuesday,68.8,13,20,70,1.4,98.0,6,False
+PROD_036,Fresh Cauliflower Head,Food,Wednesday,67.3,13,21,60,1.4,84.0,6,False
+PROD_036,Fresh Cauliflower Head,Food,Thursday,78.5,15,14,80,1.4,112.0,6,False
+PROD_036,Fresh Cauliflower Head,Food,Friday,93.5,18,16,100,1.4,140.0,6,False
+PROD_037,Lemon 4-pack,Food,Monday,137.1,27,29,150,0.95,142.5,14,False
+PROD_037,Lemon 4-pack,Food,Tuesday,106.9,21,41,90,0.95,85.5,14,False
+PROD_037,Lemon 4-pack,Food,Wednesday,104.6,20,25,105,0.95,99.75,14,False
+PROD_037,Lemon 4-pack,Food,Thursday,122.0,24,25,135,0.95,128.25,14,False
+PROD_037,Lemon 4-pack,Food,Friday,145.2,28,38,135,0.95,128.25,14,False
+PROD_038,Organic Hummus (250g),Food,Monday,114.0,22,38,105,1.6,168.0,12,False
+PROD_038,Organic Hummus (250g),Food,Tuesday,88.9,17,29,90,1.6,144.0,12,False
+PROD_038,Organic Hummus (250g),Food,Wednesday,86.9,17,30,75,1.6,120.0,12,False
+PROD_038,Organic Hummus (250g),Food,Thursday,101.4,20,18,105,1.6,168.0,12,False
+PROD_038,Organic Hummus (250g),Food,Friday,120.8,23,21,135,1.6,216.0,12,False
+PROD_039,Fresh Asparagus (350g),Food,Monday,84.3,16,16,90,2.45,220.5,4,False
+PROD_039,Fresh Asparagus (350g),Food,Tuesday,65.7,12,21,60,2.45,147.0,4,False
+PROD_039,Fresh Asparagus (350g),Food,Wednesday,64.3,12,16,70,2.45,171.5,4,False
+PROD_039,Fresh Asparagus (350g),Food,Thursday,75.0,14,21,70,2.45,171.5,4,False
+PROD_039,Fresh Asparagus (350g),Food,Friday,89.2,17,16,90,2.45,220.5,4,False
+PROD_040,Parmesan Wedge (200g),Food,Monday,81.2,15,23,80,3.1,248.0,60,False
+PROD_040,Parmesan Wedge (200g),Food,Tuesday,63.3,12,21,60,3.1,186.0,60,False
+PROD_040,Parmesan Wedge (200g),Food,Wednesday,61.9,12,18,60,3.1,186.0,60,False
+PROD_040,Parmesan Wedge (200g),Food,Thursday,72.2,14,16,70,3.1,217.0,60,False
+PROD_040,Parmesan Wedge (200g),Food,Friday,86.0,16,14,90,3.1,279.0,60,False
+PROD_041,Sweet Corn (3-pack),Food,Monday,113.3,22,14,135,1.2,162.0,5,False
+PROD_041,Sweet Corn (3-pack),Food,Tuesday,88.3,17,35,75,1.2,90.0,5,False
+PROD_041,Sweet Corn (3-pack),Food,Wednesday,86.4,17,22,90,1.2,108.0,5,False
+PROD_041,Sweet Corn (3-pack),Food,Thursday,100.8,19,26,105,1.2,126.0,5,False
+PROD_041,Sweet Corn (3-pack),Food,Friday,120.0,23,30,120,1.2,144.0,5,False
+PROD_042,Smoked Bacon (300g),Food,Monday,119.4,23,29,120,2.7,324.0,25,False
+PROD_042,Smoked Bacon (300g),Food,Tuesday,93.1,18,29,90,2.7,243.0,25,False
+PROD_042,Smoked Bacon (300g),Food,Wednesday,91.1,17,26,90,2.7,243.0,25,False
+PROD_042,Smoked Bacon (300g),Food,Thursday,106.3,21,25,105,2.7,283.5,25,False
+PROD_042,Smoked Bacon (300g),Food,Friday,126.5,25,24,135,2.7,364.5,25,False
+PROD_043,Fresh Basil Pot,Food,Monday,60.2,11,7,70,1.05,73.5,7,False
+PROD_043,Fresh Basil Pot,Food,Tuesday,46.9,9,16,40,1.05,42.0,7,False
+PROD_043,Fresh Basil Pot,Food,Wednesday,45.9,9,9,50,1.05,52.5,7,False
+PROD_043,Fresh Basil Pot,Food,Thursday,53.6,10,14,50,1.05,52.5,7,False
+PROD_043,Fresh Basil Pot,Food,Friday,63.8,12,10,70,1.05,73.5,7,False
+PROD_044,Roma Lettuce (2-pack),Food,Monday,132.6,26,24,135,1.15,155.25,5,False
+PROD_044,Roma Lettuce (2-pack),Food,Tuesday,103.4,20,26,105,1.15,120.75,5,False
+PROD_044,Roma Lettuce (2-pack),Food,Wednesday,101.2,19,28,105,1.15,120.75,5,False
+PROD_044,Roma Lettuce (2-pack),Food,Thursday,118.0,23,31,120,1.15,138.0,5,False
+PROD_044,Roma Lettuce (2-pack),Food,Friday,140.5,27,33,135,1.15,155.25,5,False
+PROD_045,Organic Chia Pudding (200g),Food,Monday,89.4,17,24,90,1.7,153.0,6,False
+PROD_045,Organic Chia Pudding (200g),Food,Tuesday,69.7,13,24,60,1.7,102.0,6,False
+PROD_045,Organic Chia Pudding (200g),Food,Wednesday,68.2,13,14,70,1.7,119.0,6,False
+PROD_045,Organic Chia Pudding (200g),Food,Thursday,79.6,15,16,80,1.7,136.0,6,False
+PROD_045,Organic Chia Pudding (200g),Food,Friday,94.8,18,17,100,1.7,170.0,6,False
+PROD_046,Brioche Buns (4-pack),Food,Monday,121.2,23,18,135,1.45,195.75,5,False
+PROD_046,Brioche Buns (4-pack),Food,Tuesday,94.5,18,31,90,1.45,130.5,5,False
+PROD_046,Brioche Buns (4-pack),Food,Wednesday,92.4,18,27,90,1.45,130.5,5,False
+PROD_046,Brioche Buns (4-pack),Food,Thursday,107.8,21,24,105,1.45,152.25,5,False
+PROD_046,Brioche Buns (4-pack),Food,Friday,128.4,25,22,135,1.45,195.75,5,False
+PROD_047,Fresh Salmon Poke Bowl,Food,Monday,75.2,14,10,80,5.2,416.0,2,False
+PROD_047,Fresh Salmon Poke Bowl,Food,Tuesday,58.6,11,14,60,5.2,312.0,2,False
+PROD_047,Fresh Salmon Poke Bowl,Food,Wednesday,57.3,11,16,60,5.2,312.0,2,False
+PROD_047,Fresh Salmon Poke Bowl,Food,Thursday,66.9,13,18,70,5.2,364.0,2,False
+PROD_047,Fresh Salmon Poke Bowl,Food,Friday,79.6,15,21,80,5.2,416.0,2,False
+PROD_048,Greek Kalamata Olives (300g),Food,Monday,78.4,15,18,80,2.1,168.0,90,False
+PROD_048,Greek Kalamata Olives (300g),Food,Tuesday,61.1,12,19,60,2.1,126.0,90,False
+PROD_048,Greek Kalamata Olives (300g),Food,Wednesday,59.8,11,18,60,2.1,126.0,90,False
+PROD_048,Greek Kalamata Olives (300g),Food,Thursday,69.7,13,18,70,2.1,147.0,90,False
+PROD_048,Greek Kalamata Olives (300g),Food,Friday,83.0,16,19,80,2.1,168.0,90,False
+PROD_049,Organic Blueberries 500g Jumbo,Food,Monday,99.5,19,12,120,4.1,492.0,4,False
+PROD_049,Organic Blueberries 500g Jumbo,Food,Tuesday,77.6,15,32,75,4.1,307.5,4,False
+PROD_049,Organic Blueberries 500g Jumbo,Food,Wednesday,75.9,14,29,60,4.1,246.0,4,False
+PROD_049,Organic Blueberries 500g Jumbo,Food,Thursday,88.5,17,14,105,4.1,430.5,4,False
+PROD_049,Organic Blueberries 500g Jumbo,Food,Friday,105.4,20,30,105,4.1,430.5,4,False
+PROD_050,Fresh Guacamole (200g),Food,Monday,91.3,18,16,100,1.95,195.0,4,False
+PROD_050,Fresh Guacamole (200g),Food,Tuesday,71.2,13,24,60,1.95,117.0,4,False
+PROD_050,Fresh Guacamole (200g),Food,Wednesday,69.7,13,13,70,1.95,136.5,4,False
+PROD_050,Fresh Guacamole (200g),Food,Thursday,81.3,16,13,90,1.95,175.5,4,False
+PROD_050,Fresh Guacamole (200g),Food,Friday,96.8,19,22,100,1.95,195.0,4,False
+PROD_051,Pure Sparkling Mineral Water 1L,Beverage,Monday,325.1,120,197,250,0.6,150.0,180,False
+PROD_051,Pure Sparkling Mineral Water 1L,Beverage,Tuesday,308.0,114,121,350,0.6,210.0,180,False
+PROD_051,Pure Sparkling Mineral Water 1L,Beverage,Wednesday,325.1,120,163,300,0.6,180.0,180,False
+PROD_051,Pure Sparkling Mineral Water 1L,Beverage,Thursday,376.4,140,138,400,0.6,240.0,180,False
+PROD_051,Pure Sparkling Mineral Water 1L,Beverage,Friday,462.0,171,162,500,0.6,300.0,180,False
+PROD_052,Cold Brew Coffee 330ml,Beverage,Monday,182.8,67,48,210,1.5,315.0,30,False
+PROD_052,Cold Brew Coffee 330ml,Beverage,Tuesday,173.2,64,75,180,1.5,270.0,30,False
+PROD_052,Cold Brew Coffee 330ml,Beverage,Wednesday,182.8,67,82,180,1.5,270.0,30,False
+PROD_052,Cold Brew Coffee 330ml,Beverage,Thursday,211.6,78,79,240,1.5,360.0,30,False
+PROD_052,Cold Brew Coffee 330ml,Beverage,Friday,259.7,96,107,270,1.5,405.0,30,False
+PROD_053,Fresh Squeezed Orange Juice 1L,Beverage,Monday,164.8,61,40,200,2.1,420.0,10,False
+PROD_053,Fresh Squeezed Orange Juice 1L,Beverage,Tuesday,156.2,58,75,150,2.1,315.0,10,False
+PROD_053,Fresh Squeezed Orange Juice 1L,Beverage,Wednesday,164.8,61,69,175,2.1,367.5,10,False
+PROD_053,Fresh Squeezed Orange Juice 1L,Beverage,Thursday,190.9,70,79,200,2.1,420.0,10,False
+PROD_053,Fresh Squeezed Orange Juice 1L,Beverage,Friday,234.2,87,88,250,2.1,525.0,10,False
+PROD_054,Unsweetened Almond Milk 1L,Beverage,Monday,172.3,64,65,175,1.25,218.75,90,False
+PROD_054,Unsweetened Almond Milk 1L,Beverage,Tuesday,163.3,60,67,175,1.25,218.75,90,False
+PROD_054,Unsweetened Almond Milk 1L,Beverage,Wednesday,172.3,64,79,175,1.25,218.75,90,False
+PROD_054,Unsweetened Almond Milk 1L,Beverage,Thursday,199.5,74,82,200,1.25,250.0,90,False
+PROD_054,Unsweetened Almond Milk 1L,Beverage,Friday,244.9,91,82,275,1.25,343.75,90,False
+PROD_055,Organic Kombucha Ginger-Lemon 400ml,Beverage,Monday,87.5,32,28,105,1.9,199.5,45,False
+PROD_055,Organic Kombucha Ginger-Lemon 400ml,Beverage,Tuesday,82.9,30,45,75,1.9,142.5,45,False
+PROD_055,Organic Kombucha Ginger-Lemon 400ml,Beverage,Wednesday,87.5,32,37,90,1.9,171.0,45,False
+PROD_055,Organic Kombucha Ginger-Lemon 400ml,Beverage,Thursday,101.3,37,40,105,1.9,199.5,45,False
+PROD_055,Organic Kombucha Ginger-Lemon 400ml,Beverage,Friday,124.3,46,43,135,1.9,256.5,45,False
+PROD_056,Electrolyte Energy Drink 500ml,Beverage,Monday,145.2,53,55,150,1.1,165.0,120,False
+PROD_056,Electrolyte Energy Drink 500ml,Beverage,Tuesday,137.5,51,59,150,1.1,165.0,120,False
+PROD_056,Electrolyte Energy Drink 500ml,Beverage,Wednesday,145.2,53,72,150,1.1,165.0,120,False
+PROD_056,Electrolyte Energy Drink 500ml,Beverage,Thursday,168.1,62,77,175,1.1,192.5,120,False
+PROD_056,Electrolyte Energy Drink 500ml,Beverage,Friday,206.3,76,84,200,1.1,220.0,120,False
+PROD_057,Sparkling Apple Cider 750ml,Beverage,Monday,78.1,29,43,70,2.1,147.0,150,False
+PROD_057,Sparkling Apple Cider 750ml,Beverage,Tuesday,74.0,27,34,70,2.1,147.0,150,False
+PROD_057,Sparkling Apple Cider 750ml,Beverage,Wednesday,78.1,29,30,80,2.1,168.0,150,False
+PROD_057,Sparkling Apple Cider 750ml,Beverage,Thursday,90.4,33,32,100,2.1,210.0,150,False
+PROD_057,Sparkling Apple Cider 750ml,Beverage,Friday,111.0,41,42,110,2.1,231.0,150,False
+PROD_058,Oat Milk Barista Edition 1L,Beverage,Monday,275.0,102,108,270,1.4,378.0,90,False
+PROD_058,Oat Milk Barista Edition 1L,Beverage,Tuesday,260.6,97,103,270,1.4,378.0,90,False
+PROD_058,Oat Milk Barista Edition 1L,Beverage,Wednesday,275.0,102,112,270,1.4,378.0,90,False
+PROD_058,Oat Milk Barista Edition 1L,Beverage,Thursday,318.5,118,107,360,1.4,504.0,90,False
+PROD_058,Oat Milk Barista Edition 1L,Beverage,Friday,390.8,145,148,405,1.4,567.0,90,False
+PROD_059,Zero Sugar Cola 1.5L,Beverage,Monday,286.0,106,79,315,0.9,283.5,180,False
+PROD_059,Zero Sugar Cola 1.5L,Beverage,Tuesday,271.0,100,108,270,0.9,243.0,180,False
+PROD_059,Zero Sugar Cola 1.5L,Beverage,Wednesday,286.0,106,107,315,0.9,283.5,180,False
+PROD_059,Zero Sugar Cola 1.5L,Beverage,Thursday,331.2,123,136,360,0.9,324.0,180,False
+PROD_059,Zero Sugar Cola 1.5L,Beverage,Friday,406.5,151,164,405,0.9,364.5,180,False
+PROD_060,Green Tea with Honey 500ml,Beverage,Monday,108.2,40,32,120,1.0,120.0,120,False
+PROD_060,Green Tea with Honey 500ml,Beverage,Tuesday,102.5,38,43,105,1.0,105.0,120,False
+PROD_060,Green Tea with Honey 500ml,Beverage,Wednesday,108.2,40,46,105,1.0,105.0,120,False
+PROD_060,Green Tea with Honey 500ml,Beverage,Thursday,125.3,46,43,135,1.0,135.0,120,False
+PROD_060,Green Tea with Honey 500ml,Beverage,Friday,153.8,57,52,165,1.0,165.0,120,False
+PROD_061,Natural Coconut Water 1L,Beverage,Monday,114.9,42,35,140,1.75,245.0,90,False
+PROD_061,Natural Coconut Water 1L,Beverage,Tuesday,108.9,40,60,100,1.75,175.0,90,False
+PROD_061,Natural Coconut Water 1L,Beverage,Wednesday,114.9,42,51,120,1.75,210.0,90,False
+PROD_061,Natural Coconut Water 1L,Beverage,Thursday,133.1,49,56,140,1.75,245.0,90,False
+PROD_061,Natural Coconut Water 1L,Beverage,Friday,163.4,60,63,180,1.75,315.0,90,False
+PROD_062,Iced Matcha Latte 330ml,Beverage,Monday,81.2,30,29,90,2.0,180.0,21,False
+PROD_062,Iced Matcha Latte 330ml,Beverage,Tuesday,77.0,28,37,75,2.0,150.0,21,False
+PROD_062,Iced Matcha Latte 330ml,Beverage,Wednesday,81.2,30,35,90,2.0,180.0,21,False
+PROD_062,Iced Matcha Latte 330ml,Beverage,Thursday,94.1,35,44,90,2.0,180.0,21,False
+PROD_062,Iced Matcha Latte 330ml,Beverage,Friday,115.4,43,40,120,2.0,240.0,21,False
+PROD_063,Classic Lemonade 1.5L,Beverage,Monday,186.0,69,124,150,1.2,180.0,60,False
+PROD_063,Classic Lemonade 1.5L,Beverage,Tuesday,176.2,65,88,180,1.2,216.0,60,False
+PROD_063,Classic Lemonade 1.5L,Beverage,Wednesday,186.0,69,91,180,1.2,216.0,60,False
+PROD_063,Classic Lemonade 1.5L,Beverage,Thursday,215.4,80,85,210,1.2,252.0,60,False
+PROD_063,Classic Lemonade 1.5L,Beverage,Friday,264.3,98,80,300,1.2,360.0,60,False
+PROD_064,Still Spring Water 500ml (12-pack),Beverage,Monday,401.5,149,309,260,2.3,598.0,365,False
+PROD_064,Still Spring Water 500ml (12-pack),Beverage,Tuesday,380.3,141,167,390,2.3,897.0,365,False
+PROD_064,Still Spring Water 500ml (12-pack),Beverage,Wednesday,401.5,149,177,390,2.3,897.0,365,False
+PROD_064,Still Spring Water 500ml (12-pack),Beverage,Thursday,464.9,173,165,520,2.3,1196.0,365,False
+PROD_064,Still Spring Water 500ml (12-pack),Beverage,Friday,570.5,212,220,585,2.3,1345.5,365,False
+PROD_065,Craft Ginger Beer 330ml (4-pack),Beverage,Monday,91.8,34,32,105,3.1,325.5,120,False
+PROD_065,Craft Ginger Beer 330ml (4-pack),Beverage,Tuesday,86.9,32,45,75,3.1,232.5,120,False
+PROD_065,Craft Ginger Beer 330ml (4-pack),Beverage,Wednesday,91.8,34,33,105,3.1,325.5,120,False
+PROD_065,Craft Ginger Beer 330ml (4-pack),Beverage,Thursday,106.3,39,46,105,3.1,325.5,120,False
+PROD_065,Craft Ginger Beer 330ml (4-pack),Beverage,Friday,130.4,48,45,135,3.1,418.5,120,False
+PROD_066,Pomegranate Antioxidant Juice 750ml,Beverage,Monday,71.5,26,22,80,2.65,212.0,30,False
+PROD_066,Pomegranate Antioxidant Juice 750ml,Beverage,Tuesday,67.8,25,30,70,2.65,185.5,30,False
+PROD_066,Pomegranate Antioxidant Juice 750ml,Beverage,Wednesday,71.5,26,32,70,2.65,185.5,30,False
+PROD_066,Pomegranate Antioxidant Juice 750ml,Beverage,Thursday,82.8,30,31,90,2.65,238.5,30,False
+PROD_066,Pomegranate Antioxidant Juice 750ml,Beverage,Friday,101.7,37,38,110,2.65,291.5,30,False
+PROD_067,Protein Shake Vanilla 330ml,Beverage,Monday,99.8,37,36,105,1.8,189.0,60,False
+PROD_067,Protein Shake Vanilla 330ml,Beverage,Tuesday,94.5,35,41,90,1.8,162.0,60,False
+PROD_067,Protein Shake Vanilla 330ml,Beverage,Wednesday,99.8,37,36,105,1.8,189.0,60,False
+PROD_067,Protein Shake Vanilla 330ml,Beverage,Thursday,115.5,43,41,120,1.8,216.0,60,False
+PROD_067,Protein Shake Vanilla 330ml,Beverage,Friday,141.8,52,46,150,1.8,270.0,60,False
+PROD_068,Peach Iced Tea 1L,Beverage,Monday,124.2,46,41,140,1.05,147.0,90,False
+PROD_068,Peach Iced Tea 1L,Beverage,Tuesday,117.6,43,56,120,1.05,126.0,90,False
+PROD_068,Peach Iced Tea 1L,Beverage,Wednesday,124.2,46,59,120,1.05,126.0,90,False
+PROD_068,Peach Iced Tea 1L,Beverage,Thursday,143.8,53,55,160,1.05,168.0,90,False
+PROD_068,Peach Iced Tea 1L,Beverage,Friday,176.4,65,71,180,1.05,189.0,90,False
+PROD_069,Vitamin Water Dragonfruit 500ml,Beverage,Monday,104.9,39,54,90,1.15,103.5,120,False
+PROD_069,Vitamin Water Dragonfruit 500ml,Beverage,Tuesday,99.4,36,39,105,1.15,120.75,120,False
+PROD_069,Vitamin Water Dragonfruit 500ml,Beverage,Wednesday,104.9,39,44,105,1.15,120.75,120,False
+PROD_069,Vitamin Water Dragonfruit 500ml,Beverage,Thursday,121.4,45,44,135,1.15,155.25,120,False
+PROD_069,Vitamin Water Dragonfruit 500ml,Beverage,Friday,149.0,55,58,150,1.15,172.5,120,False
+PROD_070,Cold-Pressed Green Detox Juice 500ml,Beverage,Monday,108.2,40,46,105,3.2,336.0,5,False
+PROD_070,Cold-Pressed Green Detox Juice 500ml,Beverage,Tuesday,102.5,38,42,105,3.2,336.0,5,False
+PROD_070,Cold-Pressed Green Detox Juice 500ml,Beverage,Wednesday,108.2,40,45,105,3.2,336.0,5,False
+PROD_070,Cold-Pressed Green Detox Juice 500ml,Beverage,Thursday,125.3,46,42,135,3.2,432.0,5,False
+PROD_070,Cold-Pressed Green Detox Juice 500ml,Beverage,Friday,153.8,57,51,165,3.2,528.0,5,False
+PROD_071,Tonic Water 4-pack,Beverage,Monday,110.6,41,30,135,1.9,256.5,180,False
+PROD_071,Tonic Water 4-pack,Beverage,Tuesday,104.8,39,54,90,1.9,171.0,180,False
+PROD_071,Tonic Water 4-pack,Beverage,Wednesday,110.6,41,39,120,1.9,228.0,180,False
+PROD_071,Tonic Water 4-pack,Beverage,Thursday,128.0,47,49,135,1.9,256.5,180,False
+PROD_071,Tonic Water 4-pack,Beverage,Friday,157.1,58,56,165,1.9,313.5,180,False
+PROD_072,Soy Milk Organic Unsweetened 1L,Beverage,Monday,105.2,39,29,120,1.15,138.0,90,False
+PROD_072,Soy Milk Organic Unsweetened 1L,Beverage,Tuesday,99.6,36,43,105,1.15,120.75,90,False
+PROD_072,Soy Milk Organic Unsweetened 1L,Beverage,Wednesday,105.2,39,49,105,1.15,120.75,90,False
+PROD_072,Soy Milk Organic Unsweetened 1L,Beverage,Thursday,121.8,45,49,120,1.15,138.0,90,False
+PROD_072,Soy Milk Organic Unsweetened 1L,Beverage,Friday,149.4,55,47,165,1.15,189.75,90,False
+PROD_073,Flavored Sparkling Lime 1L,Beverage,Monday,148.8,55,47,175,0.7,122.5,180,False
+PROD_073,Flavored Sparkling Lime 1L,Beverage,Tuesday,140.9,52,73,125,0.7,87.5,180,False
+PROD_073,Flavored Sparkling Lime 1L,Beverage,Wednesday,148.8,55,57,150,0.7,105.0,180,False
+PROD_073,Flavored Sparkling Lime 1L,Beverage,Thursday,172.3,64,58,200,0.7,140.0,180,False
+PROD_073,Flavored Sparkling Lime 1L,Beverage,Friday,211.4,78,86,225,0.7,157.5,180,False
+PROD_074,Espresso Double Shot Can 250ml,Beverage,Monday,83.0,30,28,90,1.3,117.0,90,False
+PROD_074,Espresso Double Shot Can 250ml,Beverage,Tuesday,78.7,29,35,75,1.3,97.5,90,False
+PROD_074,Espresso Double Shot Can 250ml,Beverage,Wednesday,83.0,30,31,90,1.3,117.0,90,False
+PROD_074,Espresso Double Shot Can 250ml,Beverage,Thursday,96.1,35,38,105,1.3,136.5,90,False
+PROD_074,Espresso Double Shot Can 250ml,Beverage,Friday,118.0,43,47,120,1.3,156.0,90,False
+PROD_075,Grapefruit Soda 1L,Beverage,Monday,89.7,33,33,90,0.95,85.5,150,False
+PROD_075,Grapefruit Soda 1L,Beverage,Tuesday,85.0,31,33,90,0.95,85.5,150,False
+PROD_075,Grapefruit Soda 1L,Beverage,Wednesday,89.7,33,38,90,0.95,85.5,150,False
+PROD_075,Grapefruit Soda 1L,Beverage,Thursday,103.8,38,38,105,0.95,99.75,150,False
+PROD_075,Grapefruit Soda 1L,Beverage,Friday,127.4,47,39,135,0.95,128.25,150,False
+PROD_076,Turmeric Wellness Shot 60ml,Beverage,Monday,98.0,36,65,75,1.4,105.0,20,False
+PROD_076,Turmeric Wellness Shot 60ml,Beverage,Tuesday,92.9,34,42,90,1.4,126.0,20,False
+PROD_076,Turmeric Wellness Shot 60ml,Beverage,Wednesday,98.0,36,39,105,1.4,147.0,20,False
+PROD_076,Turmeric Wellness Shot 60ml,Beverage,Thursday,113.5,42,46,120,1.4,168.0,20,False
+PROD_076,Turmeric Wellness Shot 60ml,Beverage,Friday,139.3,51,52,150,1.4,210.0,20,False
+PROD_077,Organic Tart Cherry Juice 1L,Beverage,Monday,70.2,26,35,70,3.6,252.0,45,False
+PROD_077,Organic Tart Cherry Juice 1L,Beverage,Tuesday,66.5,24,34,60,3.6,216.0,45,False
+PROD_077,Organic Tart Cherry Juice 1L,Beverage,Wednesday,70.2,26,28,70,3.6,252.0,45,False
+PROD_077,Organic Tart Cherry Juice 1L,Beverage,Thursday,81.3,30,28,90,3.6,324.0,45,False
+PROD_077,Organic Tart Cherry Juice 1L,Beverage,Friday,99.8,37,36,110,3.6,396.0,45,False
+PROD_078,Nitro Cold Brew Vanilla 330ml,Beverage,Monday,74.1,27,23,80,2.1,168.0,30,False
+PROD_078,Nitro Cold Brew Vanilla 330ml,Beverage,Tuesday,70.2,26,28,70,2.1,147.0,30,False
+PROD_078,Nitro Cold Brew Vanilla 330ml,Beverage,Wednesday,74.1,27,28,80,2.1,168.0,30,False
+PROD_078,Nitro Cold Brew Vanilla 330ml,Beverage,Thursday,85.8,31,34,90,2.1,189.0,30,False
+PROD_078,Nitro Cold Brew Vanilla 330ml,Beverage,Friday,105.3,39,38,110,2.1,231.0,30,False
+PROD_079,Club Soda 6-pack cans,Beverage,Monday,156.2,58,39,200,1.5,300.0,180,False
+PROD_079,Club Soda 6-pack cans,Beverage,Tuesday,148.0,55,82,125,1.5,187.5,180,False
+PROD_079,Club Soda 6-pack cans,Beverage,Wednesday,156.2,58,59,175,1.5,262.5,180,False
+PROD_079,Club Soda 6-pack cans,Beverage,Thursday,180.8,67,78,175,1.5,262.5,180,False
+PROD_079,Club Soda 6-pack cans,Beverage,Friday,221.9,82,72,250,1.5,375.0,180,False
+PROD_080,Kombucha Passionfruit 400ml,Beverage,Monday,82.0,30,30,90,1.9,171.0,45,False
+PROD_080,Kombucha Passionfruit 400ml,Beverage,Tuesday,77.7,28,38,75,1.9,142.5,45,False
+PROD_080,Kombucha Passionfruit 400ml,Beverage,Wednesday,82.0,30,35,90,1.9,171.0,45,False
+PROD_080,Kombucha Passionfruit 400ml,Beverage,Thursday,94.9,35,43,90,1.9,171.0,45,False
+PROD_080,Kombucha Passionfruit 400ml,Beverage,Friday,116.5,43,38,135,1.9,256.5,45,False
+PROD_081,Diet Lemon Lime Soda 2L,Beverage,Monday,179.3,66,70,180,0.95,171.0,180,False
+PROD_081,Diet Lemon Lime Soda 2L,Beverage,Tuesday,169.8,63,70,180,0.95,171.0,180,False
+PROD_081,Diet Lemon Lime Soda 2L,Beverage,Wednesday,179.3,66,80,180,0.95,171.0,180,False
+PROD_081,Diet Lemon Lime Soda 2L,Beverage,Thursday,207.6,77,81,210,0.95,199.5,180,False
+PROD_081,Diet Lemon Lime Soda 2L,Beverage,Friday,254.7,94,83,270,0.95,256.5,180,False
+PROD_082,Chai Tea Latte Concentrated 1L,Beverage,Monday,76.6,28,37,70,2.3,161.0,60,False
+PROD_082,Chai Tea Latte Concentrated 1L,Beverage,Tuesday,72.5,26,30,70,2.3,161.0,60,False
+PROD_082,Chai Tea Latte Concentrated 1L,Beverage,Wednesday,76.6,28,27,80,2.3,184.0,60,False
+PROD_082,Chai Tea Latte Concentrated 1L,Beverage,Thursday,88.7,33,31,100,2.3,230.0,60,False
+PROD_082,Chai Tea Latte Concentrated 1L,Beverage,Friday,108.8,40,42,110,2.3,253.0,60,False
+PROD_083,Cold-Pressed Beet & Carrot Juice 500ml,Beverage,Monday,66.1,24,21,70,3.1,217.0,6,False
+PROD_083,Cold-Pressed Beet & Carrot Juice 500ml,Beverage,Tuesday,62.6,23,24,70,3.1,217.0,6,False
+PROD_083,Cold-Pressed Beet & Carrot Juice 500ml,Beverage,Wednesday,66.1,24,32,60,3.1,186.0,6,False
+PROD_083,Cold-Pressed Beet & Carrot Juice 500ml,Beverage,Thursday,76.6,28,26,80,3.1,248.0,6,False
+PROD_083,Cold-Pressed Beet & Carrot Juice 500ml,Beverage,Friday,94.0,34,29,100,3.1,310.0,6,False
+PROD_084,Sparkling Grapefruit Water 8-pack,Beverage,Monday,152.5,56,50,175,2.3,402.5,180,False
+PROD_084,Sparkling Grapefruit Water 8-pack,Beverage,Tuesday,144.5,53,72,125,2.3,287.5,180,False
+PROD_084,Sparkling Grapefruit Water 8-pack,Beverage,Wednesday,152.5,56,53,175,2.3,402.5,180,False
+PROD_084,Sparkling Grapefruit Water 8-pack,Beverage,Thursday,176.6,65,75,175,2.3,402.5,180,False
+PROD_084,Sparkling Grapefruit Water 8-pack,Beverage,Friday,216.7,80,73,225,2.3,517.5,180,False
+PROD_085,Hazelnut Iced Coffee 330ml,Beverage,Monday,74.8,27,22,80,1.6,128.0,30,False
+PROD_085,Hazelnut Iced Coffee 330ml,Beverage,Tuesday,70.8,26,27,70,1.6,112.0,30,False
+PROD_085,Hazelnut Iced Coffee 330ml,Beverage,Wednesday,74.8,27,26,80,1.6,128.0,30,False
+PROD_085,Hazelnut Iced Coffee 330ml,Beverage,Thursday,86.6,32,31,90,1.6,144.0,30,False
+PROD_085,Hazelnut Iced Coffee 330ml,Beverage,Friday,106.2,39,35,120,1.6,192.0,30,False
+PROD_086,Wild Berry Protein Smoothie 330ml,Beverage,Monday,81.7,30,15,105,2.15,225.75,14,False
+PROD_086,Wild Berry Protein Smoothie 330ml,Beverage,Tuesday,77.4,28,38,75,2.15,161.25,14,False
+PROD_086,Wild Berry Protein Smoothie 330ml,Beverage,Wednesday,81.7,30,35,90,2.15,193.5,14,False
+PROD_086,Wild Berry Protein Smoothie 330ml,Beverage,Thursday,94.6,35,44,90,2.15,193.5,14,False
+PROD_086,Wild Berry Protein Smoothie 330ml,Beverage,Friday,116.1,43,39,120,2.15,258.0,14,False
+PROD_087,Organic Coconut Milk Beverage 1L,Beverage,Monday,80.5,30,31,90,1.35,121.5,90,False
+PROD_087,Organic Coconut Milk Beverage 1L,Beverage,Tuesday,76.2,28,40,75,1.35,101.25,90,False
+PROD_087,Organic Coconut Milk Beverage 1L,Beverage,Wednesday,80.5,30,39,75,1.35,101.25,90,False
+PROD_087,Organic Coconut Milk Beverage 1L,Beverage,Thursday,93.2,34,33,105,1.35,141.75,90,False
+PROD_087,Organic Coconut Milk Beverage 1L,Beverage,Friday,114.3,42,45,120,1.35,162.0,90,False
+PROD_088,Root Beer Craft 4-pack,Beverage,Monday,78.0,29,53,60,2.8,168.0,180,False
+PROD_088,Root Beer Craft 4-pack,Beverage,Tuesday,73.9,27,35,70,2.8,196.0,180,False
+PROD_088,Root Beer Craft 4-pack,Beverage,Wednesday,78.0,29,31,80,2.8,224.0,180,False
+PROD_088,Root Beer Craft 4-pack,Beverage,Thursday,90.3,33,33,100,2.8,280.0,180,False
+PROD_088,Root Beer Craft 4-pack,Beverage,Friday,110.8,41,42,110,2.8,308.0,180,False
+PROD_089,Hibiscus Herbal Tea 500ml,Beverage,Monday,102.0,37,61,90,1.1,99.0,90,False
+PROD_089,Hibiscus Herbal Tea 500ml,Beverage,Tuesday,96.7,36,49,90,1.1,99.0,90,False
+PROD_089,Hibiscus Herbal Tea 500ml,Beverage,Wednesday,102.0,37,42,105,1.1,115.5,90,False
+PROD_089,Hibiscus Herbal Tea 500ml,Beverage,Thursday,118.1,43,45,120,1.1,132.0,90,False
+PROD_089,Hibiscus Herbal Tea 500ml,Beverage,Friday,145.0,53,47,165,1.1,181.5,90,False
+PROD_090,Cold-Pressed Pineapple Mint 500ml,Beverage,Monday,81.2,30,16,105,3.0,315.0,6,False
+PROD_090,Cold-Pressed Pineapple Mint 500ml,Beverage,Tuesday,77.0,28,39,75,3.0,225.0,6,False
+PROD_090,Cold-Pressed Pineapple Mint 500ml,Beverage,Wednesday,81.2,30,37,75,3.0,225.0,6,False
+PROD_090,Cold-Pressed Pineapple Mint 500ml,Beverage,Thursday,94.1,35,31,105,3.0,315.0,6,False
+PROD_090,Cold-Pressed Pineapple Mint 500ml,Beverage,Friday,115.4,43,42,120,3.0,360.0,6,False
+PROD_091,Sugar-Free Energy Drink 4-pack,Beverage,Monday,124.5,46,34,140,4.2,588.0,120,False
+PROD_091,Sugar-Free Energy Drink 4-pack,Beverage,Tuesday,118.0,43,49,120,4.2,504.0,120,False
+PROD_091,Sugar-Free Energy Drink 4-pack,Beverage,Wednesday,124.5,46,51,120,4.2,504.0,120,False
+PROD_091,Sugar-Free Energy Drink 4-pack,Beverage,Thursday,144.2,53,47,160,4.2,672.0,120,False
+PROD_091,Sugar-Free Energy Drink 4-pack,Beverage,Friday,177.0,65,62,180,4.2,756.0,120,False
+PROD_092,Alkaline Water 1L pH 9.5,Beverage,Monday,93.9,34,40,90,0.95,85.5,365,False
+PROD_092,Alkaline Water 1L pH 9.5,Beverage,Tuesday,88.9,33,36,90,0.95,85.5,365,False
+PROD_092,Alkaline Water 1L pH 9.5,Beverage,Wednesday,93.9,34,37,105,0.95,99.75,365,False
+PROD_092,Alkaline Water 1L pH 9.5,Beverage,Thursday,108.7,40,48,105,0.95,99.75,365,False
+PROD_092,Alkaline Water 1L pH 9.5,Beverage,Friday,133.4,49,44,150,0.95,142.5,365,False
+PROD_093,Creamy Caramel Cold Brew 330ml,Beverage,Monday,86.5,32,35,90,1.7,153.0,30,False
+PROD_093,Creamy Caramel Cold Brew 330ml,Beverage,Tuesday,81.9,30,38,75,1.7,127.5,30,False
+PROD_093,Creamy Caramel Cold Brew 330ml,Beverage,Wednesday,86.5,32,31,90,1.7,153.0,30,False
+PROD_093,Creamy Caramel Cold Brew 330ml,Beverage,Thursday,100.1,37,35,105,1.7,178.5,30,False
+PROD_093,Creamy Caramel Cold Brew 330ml,Beverage,Friday,122.9,45,40,135,1.7,229.5,30,False
+PROD_094,Organic Lemon Ginger Tea 1L,Beverage,Monday,63.6,23,25,70,1.4,98.0,90,False
+PROD_094,Organic Lemon Ginger Tea 1L,Beverage,Tuesday,60.3,22,31,60,1.4,84.0,90,False
+PROD_094,Organic Lemon Ginger Tea 1L,Beverage,Wednesday,63.6,23,31,60,1.4,84.0,90,False
+PROD_094,Organic Lemon Ginger Tea 1L,Beverage,Thursday,73.7,27,27,80,1.4,112.0,90,False
+PROD_094,Organic Lemon Ginger Tea 1L,Beverage,Friday,90.5,33,33,90,1.4,126.0,90,False
+PROD_095,Guava Passion Fruit Nectar 1L,Beverage,Monday,86.7,32,65,60,1.6,96.0,60,False
+PROD_095,Guava Passion Fruit Nectar 1L,Beverage,Tuesday,82.2,30,38,75,1.6,120.0,60,False
+PROD_095,Guava Passion Fruit Nectar 1L,Beverage,Wednesday,86.7,32,31,90,1.6,144.0,60,False
+PROD_095,Guava Passion Fruit Nectar 1L,Beverage,Thursday,100.4,37,34,105,1.6,168.0,60,False
+PROD_095,Guava Passion Fruit Nectar 1L,Beverage,Friday,123.3,45,38,135,1.6,216.0,60,False
+PROD_096,Prebiotic Berry Soda 355ml,Beverage,Monday,95.3,35,31,105,1.45,152.25,90,False
+PROD_096,Prebiotic Berry Soda 355ml,Beverage,Tuesday,90.3,33,40,90,1.45,130.5,90,False
+PROD_096,Prebiotic Berry Soda 355ml,Beverage,Wednesday,95.3,35,40,90,1.45,130.5,90,False
+PROD_096,Prebiotic Berry Soda 355ml,Beverage,Thursday,110.3,40,35,120,1.45,174.0,90,False
+PROD_096,Prebiotic Berry Soda 355ml,Beverage,Friday,135.4,50,44,150,1.45,217.5,90,False
+PROD_097,Elderberry Immune Boost Shot 60ml,Beverage,Monday,61.6,23,20,70,1.5,105.0,30,False
+PROD_097,Elderberry Immune Boost Shot 60ml,Beverage,Tuesday,58.3,21,28,60,1.5,90.0,30,False
+PROD_097,Elderberry Immune Boost Shot 60ml,Beverage,Wednesday,61.6,23,30,60,1.5,90.0,30,False
+PROD_097,Elderberry Immune Boost Shot 60ml,Beverage,Thursday,71.3,26,28,70,1.5,105.0,30,False
+PROD_097,Elderberry Immune Boost Shot 60ml,Beverage,Friday,87.5,32,27,100,1.5,150.0,30,False
+PROD_098,Cascara Coffee Berry Tea 330ml,Beverage,Monday,42.5,15,11,50,1.7,85.0,60,False
+PROD_098,Cascara Coffee Berry Tea 330ml,Beverage,Tuesday,40.2,14,18,40,1.7,68.0,60,False
+PROD_098,Cascara Coffee Berry Tea 330ml,Beverage,Wednesday,42.5,15,18,40,1.7,68.0,60,False
+PROD_098,Cascara Coffee Berry Tea 330ml,Beverage,Thursday,49.2,18,15,55,1.7,93.5,60,False
+PROD_098,Cascara Coffee Berry Tea 330ml,Beverage,Friday,60.3,22,21,65,1.7,110.5,60,False
+PROD_099,Sparkling Blood Orange 1L,Beverage,Monday,102.9,38,38,105,0.85,89.25,150,False
+PROD_099,Sparkling Blood Orange 1L,Beverage,Tuesday,97.5,36,40,105,0.85,89.25,150,False
+PROD_099,Sparkling Blood Orange 1L,Beverage,Wednesday,102.9,38,47,105,0.85,89.25,150,False
+PROD_099,Sparkling Blood Orange 1L,Beverage,Thursday,119.1,44,49,120,0.85,102.0,150,False
+PROD_099,Sparkling Blood Orange 1L,Beverage,Friday,146.2,54,50,150,0.85,127.5,150,False
+PROD_100,Pure Maple Water 500ml,Beverage,Monday,41.8,15,19,40,2.0,80.0,90,False
+PROD_100,Pure Maple Water 500ml,Beverage,Tuesday,39.6,14,17,40,2.0,80.0,90,False
+PROD_100,Pure Maple Water 500ml,Beverage,Wednesday,41.8,15,17,40,2.0,80.0,90,False
+PROD_100,Pure Maple Water 500ml,Beverage,Thursday,48.4,17,15,50,2.0,100.0,90,False
+PROD_100,Pure Maple Water 500ml,Beverage,Friday,59.4,22,17,65,2.0,130.0,90,False
+PROD_101,maggi,Food,Monday,141.6,27,60,120,1.8,216.0,5,False
+PROD_101,maggi,Food,Tuesday,110.4,21,38,105,1.8,189.0,5,False
+PROD_101,maggi,Food,Wednesday,108.0,21,33,105,1.8,189.0,5,False
+PROD_101,maggi,Food,Thursday,126.0,24,30,120,1.8,216.0,5,False
+PROD_101,maggi,Food,Friday,150.0,29,24,165,1.8,297.0,5,False
